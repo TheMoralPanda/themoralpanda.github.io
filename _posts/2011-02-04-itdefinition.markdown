@@ -1,12 +1,15 @@
 ---
-author: vickypathi
+author-profile: true
 comments: true
 date: 2011-02-04 14:41:16+00:00
-layout: post
-link: https://vickyexplored.wordpress.com/2011/02/04/itdefinition/
-slug: itdefinition
+layout: single
 title: '"Information Technology" - is not just what you think !!'
-wordpress_id: 13
+categories:
+    - Ideas
+    - Unique
+tags:
+    - Ideas
+    - Unique
 ---
 
 [![](http://vickyexplored.files.wordpress.com/2011/02/it.jpg?w=300)](http://vickyexplored.files.wordpress.com/2011/02/it.jpg)**Oxford** says   "the study or use of systems (especially computers and telecommunications) for storing, retrieving, and sending information"

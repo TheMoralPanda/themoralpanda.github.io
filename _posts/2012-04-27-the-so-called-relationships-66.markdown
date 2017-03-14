@@ -1,14 +1,16 @@
 ---
-author: vickypathi
+author-profile: true
 comments: true
 date: 2012-04-27 11:12:36+00:00
-layout: post
-link: https://vickyexplored.wordpress.com/2012/04/27/the-so-called-relationships-66/
-slug: the-so-called-relationships-66
+layout: single
 title: The so called RELATIONSHIPS !
-wordpress_id: 178
 categories:
-- thoughts !!
+    - Ideas
+    - Society
+tags:
+    - Ideas
+    - Society
+    - Intellectual
 ---
 
 **Is relationship that simple to think?**

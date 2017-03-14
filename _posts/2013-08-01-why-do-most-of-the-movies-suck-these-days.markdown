@@ -1,16 +1,16 @@
 ---
-author: vickypathi
+author-profile: true
 comments: true
 date: 2013-08-01 03:06:57+00:00
-layout: post
-link: https://vickyexplored.wordpress.com/2013/08/01/why-do-most-of-the-movies-suck-these-days/
-slug: why-do-most-of-the-movies-suck-these-days
+layout: single
 title: 'Why do most of the Movies suck these days ? '
-wordpress_id: 183
+categories:
+    - Ideas
+    - Society
 tags:
-- cinema
-- movies
-- Why do most movies suck these days ?
+    - Ideas
+    - Society
+    - Thoughts
 ---
 
 Ya , We are in the age where Technology and Media have grown to a great extent  that Information travels so fast. People get information blindly in a matter of seconds of its occurrence via Social Media be it an original one or a fake message. So why is that relevant here ? 

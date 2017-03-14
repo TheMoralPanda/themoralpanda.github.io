@@ -1,12 +1,15 @@
 ---
-author: vickypathi
+author-profile: true
 comments: true
 date: 2015-06-28 18:03:12+00:00
-layout: post
-link: https://vickyexplored.wordpress.com/2015/06/28/enum-firstever-roadtrip-resort-beach_rain-bike_ride_in_rain_ecr-c/
-slug: enum-firstever-roadtrip-resort-beach_rain-bike_ride_in_rain_ecr-c
+layout: single
 title: enum First_Ever (RoadTrip, Resort, Beach_rain, Bike_ride_in_rain_ECR )
-wordpress_id: 401
+categories:
+    - Personal
+    - Travel_Diaries
+tags:
+    - Travel
+    - Personal
 ---
 
 Ever felt so happy and complete, after spending a beautiful day with wonderful friends and heading back home, listening to your favorite music? Yes! I had one of the best days of my life. Of course the title would give the best answer, to why my day was so special. It was a brilliant day which was actually planned clearly, the day before. This close friend of mine, Ajeeth Kumar, who is also my colleague at Infosys, invited me for this short trip.I accepted. Meanwhile, a whatsapp group was created and discussions about the trip were going on.![resort](https://vickyexplored.files.wordpress.com/2015/06/resort.jpg?w=300)

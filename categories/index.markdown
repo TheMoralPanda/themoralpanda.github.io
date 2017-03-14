@@ -3,13 +3,6 @@ author_profile: true
 comments: true
 date: 2011-02-01 11:24:20+00:00
 layout: single
-categories:
-    - Ideas
-    - Society
-tags:
-    - Ideas
-    - Society
-    - Intellectual
 ---
 
 Do you really think **a synonym is actually a synonym**?.. Oops even now...
@@ -25,3 +18,5 @@ so its an assumption that created the synonym,the reference for understanding.To
 So people who are less effective in language vocabulary should not be discouraged , since they are at least trying to unique . So what about you ?huh?
 
 <!-- more -->This is just an idea or a simple view..Please think over it :)
+
+

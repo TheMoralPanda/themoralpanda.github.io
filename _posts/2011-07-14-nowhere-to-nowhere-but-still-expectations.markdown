@@ -1,14 +1,16 @@
 ---
-author: vickypathi
+author-profile: true
 comments: true
 date: 2011-07-14 14:50:14+00:00
-layout: post
-link: https://vickyexplored.wordpress.com/2011/07/14/nowhere-to-nowhere-but-still-expectations/
-slug: nowhere-to-nowhere-but-still-expectations
+layout: single
 title: 'Nowhere to Nowhere!! but still expectations!! '
-wordpress_id: 26
 categories:
-- thoughts !!
+    - Ideas
+    - Philosophy
+tags:
+    - Ideas
+    - Intellectual
+    - Philosophy
 ---
 
 Its  starts  from nowhere! where a soul gets life and a life gets a body and the body wastes some space!!

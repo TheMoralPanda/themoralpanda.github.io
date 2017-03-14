@@ -1,12 +1,15 @@
 ---
-author: vickypathi
+author-profile: true
 comments: true
 date: 2015-04-25 11:25:10+00:00
-layout: post
-link: https://vickyexplored.wordpress.com/2015/04/25/the-change-within/
-slug: the-change-within
+layout: single
 title: The Change within !
-wordpress_id: 388
+categories:
+    - Ideas
+    - Philosophy
+tags:
+    - Ideas
+    - Self Improvement
 ---
 
 "His character is so bad!", "Such a nice person she is!”,"Hell knows, what a person he is! ".How many comments have we passed about other's character?  How many times have we said "This is who I am!”,"That’s who she is!”?How many occasions, have we felt bad when somebody comments about our character or in general tries to describe about us to someone else? Well I am sure, I have done a lot of those mistakes and experienced a few from others.[![Character](https://vickyexplored.files.wordpress.com/2015/04/character.jpg?w=300)](https://vickyexplored.files.wordpress.com/2015/04/character.jpg)

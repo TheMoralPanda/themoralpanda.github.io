@@ -1,17 +1,15 @@
 ---
-author: vickypathi
+author-profile: true
 comments: true
 date: 2013-09-13 14:05:31+00:00
-layout: post
-link: https://vickyexplored.wordpress.com/2013/09/13/music-and-emotions/
-slug: music-and-emotions
+layout: single
 title: Music and Emotions !
-wordpress_id: 272
+categories:
+    - Ideas
+    - Intellectual
 tags:
-- Emotions
-- Music
-- Music and Emotions
-- Philosophy behind Music
+    - Ideas
+    - Intellectual
 ---
 
 We all love Music. Different genres. Different instruments . Different tunes. Everybody knows that. I am gonna talk about music in general. All I want to think about is ,  why music is so cool ?And why almost all people are really in love with it ? A simple answer might be , that listening to it makes one feel so good and that would be it for most of us. But we have to think a bit deep in here. If Music makes you feel so good, you should be enjoying almost any type of music. **But its not the case mostly. We wont like every song and composition. Our wish list is always limited. Why why why ? **
