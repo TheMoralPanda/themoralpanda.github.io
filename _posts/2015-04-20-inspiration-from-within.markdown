@@ -4,9 +4,8 @@ comments: true
 date: 2015-04-20 06:40:23+00:00
 layout: single
 title: Inspiration from within !
-categories:
-    - Ideas
-    - Philosophy
+category: Ideas
+subcategory: Philosophy
 tags:
     - Philosophy
     - Ideas

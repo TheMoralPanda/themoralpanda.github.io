@@ -4,9 +4,8 @@ comments: true
 date: 2012-04-27 11:12:36+00:00
 layout: single
 title: The so called RELATIONSHIPS !
-categories:
-    - Ideas
-    - Society
+category: Ideas
+subcategory: Society
 tags:
     - Ideas
     - Society

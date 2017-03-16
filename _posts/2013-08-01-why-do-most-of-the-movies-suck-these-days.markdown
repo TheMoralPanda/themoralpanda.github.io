@@ -4,9 +4,8 @@ comments: true
 date: 2013-08-01 03:06:57+00:00
 layout: single
 title: 'Why do most of the Movies suck these days ? '
-categories:
-    - Ideas
-    - Society
+category: Ideas
+subcategory: Society
 tags:
     - Ideas
     - Society

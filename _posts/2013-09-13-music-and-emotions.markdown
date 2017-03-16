@@ -4,9 +4,8 @@ comments: true
 date: 2013-09-13 14:05:31+00:00
 layout: single
 title: Music and Emotions !
-categories:
-    - Ideas
-    - Intellectual
+category: Ideas
+subcategory: Intellectual
 tags:
     - Ideas
     - Intellectual
