@@ -4,8 +4,11 @@ comments: true
 date: 2011-07-14 14:50:14+00:00
 layout: single
 title: 'Nowhere to Nowhere!! but still expectations!! '
-category: Ideas
-subcategory: Philosophy
+categories:
+    - Ideas
+    - Philosophy
+caty: Ideas
+subcaty: Philosophy
 tags:
     - Ideas
     - Intellectual

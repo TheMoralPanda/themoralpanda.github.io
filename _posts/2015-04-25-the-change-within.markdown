@@ -4,8 +4,11 @@ comments: true
 date: 2015-04-25 11:25:10+00:00
 layout: single
 title: The Change within !
-category: Ideas
-subcategory: Philosophy
+categories:
+    - Ideas
+    - Philosophy
+caty: Ideas
+subcaty: Philosophy
 tags:
     - Ideas
     - Self Improvement

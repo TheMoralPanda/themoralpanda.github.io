@@ -4,8 +4,11 @@ comments: true
 date: 2011-02-04 14:41:16+00:00
 layout: single
 title: '"Information Technology" - is not just what you think !!'
-category: Ideas
-subcategory: Unique
+categories:
+    - Ideas
+    - Unique
+caty: Ideas
+subcaty: Unique
 tags:
     - Ideas
     - Unique

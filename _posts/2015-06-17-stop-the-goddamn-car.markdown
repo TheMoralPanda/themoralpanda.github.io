@@ -4,13 +4,15 @@ comments: true
 date: 2015-06-17 05:35:10+00:00
 layout: single
 title: Stop The Goddamn Car !
-category: Ideas
-subcategory: Philosophy
+categories: 
+    - Ideas
+    - Philosophy
+caty: Ideas
+subcaty: Philosophy
 tags:
     - Philosophy
     - Ideas
     - Self Improvement
-permalink: /:categories/:title.html
 ---
 
 [![Oh! Come On !](https://vickyexplored.files.wordpress.com/2015/06/cartoon-car-crash.jpg?w=300)](https://vickyexplored.files.wordpress.com/2015/06/cartoon-car-crash.jpg)Ever felt really bad after a stupid argument? over a stupid topic? with your close ones? Ever felt so exhausted after such bad moments and started to regret things? I also have encountered such moments. I recently got an important advice from my dad which was more like a solution to such kind of problems. So I thought I could share it with the world.

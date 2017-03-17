@@ -3,8 +3,11 @@ author_profile: true
 comments: true
 date: 2011-02-01 11:24:20+00:00
 layout: single
-category: Ideas
-subcategory: Society
+categories:
+    - Ideas
+    - Society
+caty: Ideas
+subcaty: Society
 tags:
     - Ideas
     - Society

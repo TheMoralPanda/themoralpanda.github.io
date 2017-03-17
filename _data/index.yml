@@ -1,0 +1,14 @@
+#Index to all the posts in the blog
+
+Index_title: "Index"
+
+category:
+  - name: "ideas"
+    subcategory:
+      - sub: "intellectual"
+      - sub: "philosophy"
+      - sub: "society"
+      - sub: "unique"
+  - name: "personal"
+    subcategory:
+      - sub: "travel_diaries"
