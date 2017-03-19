@@ -9,21 +9,40 @@ title: tags
 {% include group-by-array collection=site.posts field='tags' %}
 {% assign fullUrl = site.url | append: site.baseurl %}
 
-<div class="tags_div" style="font-size:0.8em">
-<ul>
+<div class="tags_div" style="font-size:0.9em">
+
+  {% for tag in group_names %}
+
+     <button onclick='reveal({{ tag | append: "_div" }})'><span id="{{ tag }}">{{ tag }}</span></button>
+  {% endfor %}
+
+<br/><br/>
   {% for tag in group_names %}
     {% assign posts = group_items[forloop.index0] %}
 
-    
-      <button><span id="{{ tag }}">{{ tag }}</span></button>
-    <!--  <ul>
-        {% for post in posts %}
-        <li>
-          <a href="{{ fullUrl | append: post.url }}">{{ post.title }}</a>
-        </li>
-        {% endfor %}
-      </ul>-->
+      <div id="{{ tag | append: '_div' }}">
+        <ul>
+          {% for post in posts %}
+          <li>
+            <a href="{{ fullUrl | append: post.url }}">{{ post.title }}</a>
+          </li>
+          {% endfor %}
+        </ul>
+    </div>
     
   {% endfor %}
-</ul>
+
 </div>
+
+<script type="text/javascript">
+  function reveal(id) {
+    id = id+'_div';
+    console.log(id);
+    var x = document.getElementById(id);
+    if (x.style.display === 'none') {
+        x.style.display = 'block';
+    } else {
+        x.style.display = 'none';
+    }
+  }
+</script>
