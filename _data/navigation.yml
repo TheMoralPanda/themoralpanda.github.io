@@ -2,10 +2,10 @@
 main:
   - title: "Index"
     url: /blogIndex/
+  - title: "Posts"
+    url: /postArchive/
   - title: "Categories"
     url: /categories/
-  - title: "Posts"
-    url: /posts/
   - title: "Tags"
     url: /tags/
   #- title: "Sample Collections"

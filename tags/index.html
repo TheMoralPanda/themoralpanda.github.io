@@ -1,18 +1,29 @@
 ---
 author_profile: true
-comments: true
-date: 2011-02-01 11:24:20+00:00
+comments: false
+date: 2017-03-18 11:24:20+00:00
 layout: single
+title: tags
 ---
 
+{% include group-by-array collection=site.posts field='tags' %}
+{% assign fullUrl = site.url | append: site.baseurl %}
+
+<div class="tags_div" style="font-size:0.8em">
 <ul>
-    <li>
-        <a href="http://google.co.in" id="self-improvement">Google</a>
-    </li>
-    <br/>
-    <br/>
-    <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-    <li>
-        <a href="http://facebook.com" id="philosophy">Facebook</a>
-    </li>
+  {% for tag in group_names %}
+    {% assign posts = group_items[forloop.index0] %}
+
+    
+      <button><span id="{{ tag }}">{{ tag }}</span></button>
+    <!--  <ul>
+        {% for post in posts %}
+        <li>
+          <a href="{{ fullUrl | append: post.url }}">{{ post.title }}</a>
+        </li>
+        {% endfor %}
+      </ul>-->
+    
+  {% endfor %}
 </ul>
+</div>

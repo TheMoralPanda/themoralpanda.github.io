@@ -8,22 +8,24 @@ title: Index
 ---
 
 {% assign mydocs = site.posts | group_by: 'caty' %}
-{% assign fullUrl = site.url | append site.baseurl %}
+{% assign fullUrl = site.url | append: site.baseurl %}
 
 {% for doc in mydocs %}
-<h2> {{ doc.name | capitalize }}</h2>
-    {% assign subdocs = doc.items | group_by: 'subcaty' %}
-    <ol>
+<div class="index_div" style="font-size:0.8em">
+ <b>{{ doc.name | capitalize }}</b>
+    {% assign subdocs = doc.items | group_by: 'subcaty'%}
+    <ul>
        {% for sdoc in subdocs %}
             <li>
-                <h4> {{ sdoc.name | capitalize }} </h4>
+                 <i>{{ sdoc.name | capitalize }} </i>
                 <ul>
                 {% for item in sdoc.items %}
-                   <li><a href="{{ url | append site.baseurl | append item.url }}">{{ item.title }}</a></li>
+                   <li><a href="{{ fullUrl | append: item.url }}">{{ item.title }}</a></li>
                 {% endfor %}
                 </ul>
             </li>
         {% endfor %}
-    </ol>
+    </ul>
+</div>
 {% endfor %}
 
