@@ -1,11 +1,13 @@
 # main links
 main:
+  - title: "Search"
+    url: /search/
   - title: "Index"
     url: /blogIndex/
-  - title: "Posts"
-    url: /postArchive/
   - title: "Categories"
     url: /categories/
+  - title: "Posts"
+    url: /postArchive/
   - title: "Tags"
     url: /tags/
   #- title: "Sample Collections"
