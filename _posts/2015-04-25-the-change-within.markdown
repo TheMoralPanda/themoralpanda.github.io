@@ -11,7 +11,7 @@ caty: Ideas
 subcaty: Philosophy
 tags:
     - Ideas
-    - Self Improvement
+    - SelfImprovement
 ---
 
 "His character is so bad!", "Such a nice person she is!”,"Hell knows, what a person he is! ".How many comments have we passed about other's character?  How many times have we said "This is who I am!”,"That’s who she is!”?How many occasions, have we felt bad when somebody comments about our character or in general tries to describe about us to someone else? Well I am sure, I have done a lot of those mistakes and experienced a few from others.[![Character](https://vickyexplored.files.wordpress.com/2015/04/character.jpg?w=300)](https://vickyexplored.files.wordpress.com/2015/04/character.jpg)

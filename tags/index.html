@@ -17,32 +17,32 @@ title: tags
   {% endfor %}
 
 <br/><br/>
-  {% for tag in group_names %}
-    {% assign posts = group_items[forloop.index0] %}
-
-      <div id="{{ tag | append: '_div' }}">
-        <ul>
-          {% for post in posts %}
-          <li>
-            <a href="{{ fullUrl | append: post.url }}">{{ post.title }}</a>
-          </li>
-          {% endfor %}
-        </ul>
-    </div>
-    
+  <script type="text/javascript">
+    {% for tag in group_names %}
+      {% assign posts = group_items[forloop.index0] %}
+        {% assign tagdivname = tag | append: '_div' %}
+        var {{ tagdivname }} = "<div id='{{ tagdivname }}'>\
+          <ul>\
+            {% for post in posts %}\
+            <li>\
+              <a href='{{ fullUrl | append: post.url }}'>{{ post.title }}</a>\
+            </li>\
+            {% endfor %}\
+          </ul>\
+        </div>";
   {% endfor %}
+    </script>
+  <div id="tag_posts">
+
+  </div>
 
 </div>
 
 <script type="text/javascript">
   function reveal(id) {
-    id = id+'_div';
     console.log(id);
-    var x = document.getElementById(id);
-    if (x.style.display === 'none') {
-        x.style.display = 'block';
-    } else {
-        x.style.display = 'none';
-    }
+    document.getElementById("tag_posts").innerHTML = "";
+   document.getElementById("tag_posts").innerHTML = id;
+
   }
 </script>

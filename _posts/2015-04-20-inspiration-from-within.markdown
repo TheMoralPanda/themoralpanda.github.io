@@ -12,7 +12,7 @@ subcaty: Philosophy
 tags:
     - Philosophy
     - Ideas
-    - Self Improvement
+    - SelfImprovement
 ---
 
 In my opinion, clearly no person other than Steve Jobs will be remembered by the world for what he did to technology and design. No other batsman other than Sachin Tendulkar is rightly portrayed to be the 'God of Cricket' for what he did to the game and for Indian cricket. No one other than Narayana Murthy will be appreciated in India as much for being a role model and perfect entrepreneur in the Indian IT industry. So we are easily inspired by all these success stories. Most of us will appreciate their work and efforts and move on. Some of us take a step further and try following the ideas and principles of these great achievers. Some of us build a huge wish list to achieve things, the way these individuals have done. I wanted to do that too. So I sat down to think about building a plan to accomplish it. All I could get were the various examples for great achievements like I mentioned above. So how should I come up with a practical protocol for this?

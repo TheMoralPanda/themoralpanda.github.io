@@ -3,7 +3,7 @@ author-profile: true
 comments: true
 date: 2011-02-04 14:41:16+00:00
 layout: single
-title: '"Information Technology" - is not just what you think !!'
+title: 'Information Technology - is not just what you think !!'
 categories:
     - Ideas
     - Unique
