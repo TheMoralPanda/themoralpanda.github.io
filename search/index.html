@@ -6,15 +6,16 @@ layout: single
 title: Search
 ---
 
-<form action="/blog/search/index.html" method="get">
+<form action="/search/index.html" method="get">
   <label for="search-box">Search</label>
   <input type="text" id="search-box" name="query">
   <input type="submit" value="search">
 </form>
 
-<ul id="search-results"></ul>
+<ul id="search-results" style="font-size:0.8em"></ul>
 
 <script>
+  {% assign fullUrl = site.url | append: site.baseurl %}
   window.store = {
     {% for post in site.posts %}
       "{{ post.url | slugify }}": {
@@ -22,7 +23,7 @@ title: Search
         "author": "{{ post.author | xml_escape }}",
         "category": "{{ post.category | xml_escape }}",
         "content": {{ post.content | strip_html | strip_newlines | jsonify }},
-        "url": "{{ post.url | xml_escape }}"
+        "url": "{{ site.baseurl | append:   post.url | xml_escape }}"
       }
       {% unless forloop.last %},{% endunless %}
     {% endfor %}

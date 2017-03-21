@@ -7,12 +7,12 @@
 
 # Site Settings
 locale                   : "en"
-title                    : 
+title                    : "The Moral Panda"
 title_separator          : 
 name                     : "Vigneshwar V"
 description              : "Blog site of Vigneshwar Venkatachalapathi"
 url                      : "https://vickys-wiki.github.io"
-baseurl                  : "/blog"
+baseurl                  : ""
 repository               : "vickys-wiki/vickys-wiki.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
@@ -40,9 +40,9 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               :  "vickys_wiki"
+  username               :  "TheMoralPanda"
 facebook:
-  username               :  "vickypathi"
+  username               :  "TheMoralPanda"
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -52,10 +52,10 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: 
-     - "https://twitter.com/vickys_wiki"
-     - "https://facebook.com/vickypathi"
+     - "https://twitter.com/TheMoralPanda"
+     - "https://facebook.com/TheMoralPanda"
      - "https://www.linkedin.com/in/vickypathi"
-     - "https://github.com/vickys-wiki"
+     - "https://github.com/TheMoralPanda"
 # Analytics
 analytics:
   provider               : false # false (default), "google", "google-universal", "custom"
