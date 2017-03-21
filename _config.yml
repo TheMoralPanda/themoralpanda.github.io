@@ -11,7 +11,7 @@ title                    : "The Moral Panda"
 title_separator          : 
 name                     : "Vigneshwar V"
 description              : "Blog site of Vigneshwar Venkatachalapathi"
-url                      : "https://vickys-wiki.github.io"
+url                      : "https://themoralpanda.github.io"
 baseurl                  : ""
 repository               : "vickys-wiki/vickys-wiki.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
