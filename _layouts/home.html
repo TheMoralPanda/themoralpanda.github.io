@@ -2,10 +2,66 @@
 layout: archive
 ---
 
-<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
 
-{% for post in paginator.posts %}
-  {% include archive-single.html %}
-{% endfor %}
+<div style="margin-left:10px;">
+    <h3> Hi there! </h3 >
 
-{% include paginator.html %}
+    <span style="font-size:0.8em">Welcome to my blog!<br/>This blog contains all the ideas, thoughts and opinions that I have worked on so far !</span>
+    <br/>
+
+
+    <div style="">
+
+                     <div style="width:50%">
+                         <h5>Links</h5>
+                      <span>
+                          <u><a href="http://localhost:4000/blogIndex" target="_blank">Ideas</a></u>
+                      </span><br/>
+                      <span>
+                          <u><a href="https://github.com/TheMoralPanda" target="_blank">Tech Projects</a></u>
+                      </span><br/>
+                      <span>
+                          <u><a href="https://soundcloud.com/vigneshwar-venkatachalapathi" target="_blank">Music</a></u>
+                      </span><br/>
+                      <span>
+                          <u><a href="/assets/pdf/Vigneshwar V_Resume.pdf" target="_blank">My Resume</a></u>
+                      </span><br/>
+                    </div>
+
+                <div style="width:50%">
+                    {% assign fullUrl = site.url | append: site.baseurl %}
+
+                    <ul>
+
+                        {% for post in site.posts limit:4 %}
+
+                        <li>
+                            <a href="{{ fullUrl | append: post.url }}">{{ post.title }}</a>
+                            <span style="font-size:0.65em"> {{ post.date | date: "%d %b , %Y" }} </span>
+                        </li>
+
+                        {% endfor %}
+                    </ul>
+                </div>
+
+
+
+
+    </div>
+
+        <!-- <div style="width:400px;height:300px;">
+        <h4 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h4>
+
+        {% for post in paginator.posts %}
+          {% include archive-single.html %}
+        {% endfor %}
+
+        {% include paginator.html %}
+        </div> -->
+
+
+
+
+
+
+</div>

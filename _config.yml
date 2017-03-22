@@ -13,7 +13,7 @@ name                     : "Vigneshwar V"
 description              : "Blog site of Vigneshwar Venkatachalapathi"
 url                      : "https://themoralpanda.github.io"
 baseurl                  : ""
-repository               : "vickys-wiki/vickys-wiki.github.io"
+repository               : "TheMoralPanda/themoralpanda.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -65,7 +65,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Vigneshwar"
+  name             : "Vigneshwar Venkatachalapathi"
   avatar           : "/assets/images/profile_pic.jpg"
   bio              : "A full-stack web developer by work.A problem solver by nature.A constant learner by will."
   location         : "Chennai, India" 
@@ -75,9 +75,9 @@ author:
   codepen          : # "http://codepen.io/vickys-wiki/"
   dribbble         :
   flickr           :
-  facebook         : "https://facebook.com/vickypathi"
+  facebook         : "TheMoralPanda"
   foursquare       :
-  github           : "https://github.com/vickys-wiki"
+  github           : "TheMoralPanda"
   google_plus      :
   keybase          :
   instagram        :
@@ -88,7 +88,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/vickys_wiki"
+  twitter          : "TheMoralPanda"
   vine             :
   weibo            :
   xing             :
