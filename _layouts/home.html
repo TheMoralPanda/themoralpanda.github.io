@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 ---
 
 
@@ -10,25 +10,26 @@ layout: archive
     <br/>
 
 
+<div>
     <div style="">
-
-                     <div style="width:50%">
-                         <h5>Links</h5>
+                      <h4>Links</h4>
+                     <div style="font-size:0.73em;color:blue">
+                         
                       <span>
                           <u><a href="http://localhost:4000/blogIndex" target="_blank">Ideas</a></u>
-                      </span><br/>
+                      </span>&nbsp;&nbsp;&nbsp;
                       <span>
                           <u><a href="https://github.com/TheMoralPanda" target="_blank">Tech Projects</a></u>
-                      </span><br/>
+                      </span>&nbsp;&nbsp;&nbsp;
                       <span>
                           <u><a href="https://soundcloud.com/vigneshwar-venkatachalapathi" target="_blank">Music</a></u>
-                      </span><br/>
+                      </span>&nbsp;&nbsp;&nbsp;
                       <span>
                           <u><a href="/assets/pdf/Vigneshwar V_Resume.pdf" target="_blank">My Resume</a></u>
                       </span><br/>
                     </div>
 
-                <div style="width:50%">
+         <!--       <div style="width:50%">
                     {% assign fullUrl = site.url | append: site.baseurl %}
 
                     <ul>
@@ -43,23 +44,30 @@ layout: archive
                         {% endfor %}
                     </ul>
                 </div>
-
+-->
 
 
 
     </div>
 
-        <!-- <div style="width:400px;height:300px;">
-        <h4 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h4>
 
-        {% for post in paginator.posts %}
-          {% include archive-single.html %}
-        {% endfor %}
+    <h4>Recent Posts</h4>
 
-        {% include paginator.html %}
-        </div> -->
+         <div style="font-size:0.73em;" >
 
+            
 
+            <ul>
+            {% for post in site.posts limit:5 %}
+              <li>
+                <a href="{{ site.url | append: post.url }}">{{post.title}}</a>
+              </li>
+            {% endfor %}
+            </ul>  
+        <!--{% include paginator.html %}
+         -->
+     </div>    
+</div>
 
 
 
