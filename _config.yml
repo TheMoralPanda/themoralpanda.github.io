@@ -8,7 +8,7 @@
 # Site Settings
 locale                   : "en"
 title                    : "The Moral Panda"
-title_separator          : 
+title_separator          : "-"
 name                     : "Vigneshwar V"
 description              : "Blog site of Vigneshwar Venkatachalapathi"
 url                      : "https://themoralpanda.github.io"

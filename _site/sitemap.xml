@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://localhost:4000/ideas/philosophy/Stop-waiting-for-sings!/</loc>
+<lastmod>2016-11-23T00:00:00+05:30</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/ideas/philosophy/The-Uncertainty-of-Life/</loc>
+<lastmod>2016-08-03T00:00:00+05:30</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/ideas/society/Why-should-women-not-drink!-Especially-in-India!/</loc>
+<lastmod>2016-01-26T00:00:00+05:30</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/personal/travel_diaries/enum-firstever-roadtrip-resort-beach_rain-bike_ride_in_rain_ecr-c/</loc>
 <lastmod>2015-06-28T23:33:12+05:30</lastmod>
 </url>
@@ -60,6 +72,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/page2/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/page3/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/assets/pdf/Vigneshwar%20V_Resume.pdf</loc>
