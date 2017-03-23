@@ -58,9 +58,9 @@ social:
      - "https://github.com/TheMoralPanda"
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "custom"
+  provider               : true # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : "ZbZyVclxBCuiiFPkY_sT2AKWyfg5-5wY29XWDxtK5V0"
 
 
 # Site Author
