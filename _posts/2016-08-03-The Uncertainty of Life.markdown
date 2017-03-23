@@ -1,3 +1,17 @@
+---
+title: The Uncertainty of Life
+date: 2016-08-03
+layout: single
+categories: 
+  - Ideas
+  - Philosophy
+caty: Ideas
+subcaty: Philosophy
+Tags:
+  - Philosophy
+  - Life
+---
+
 # The Uncertainty of Life
 
 ![](https://cdn-images-1.medium.com/max/800/1*vE7cuy-_gfzwWvLHvRfyvw.png)
@@ -47,13 +61,3 @@ over the impact. But we have absolutely 100% control on how to handle the
 impact. So indirectly, we have control over the impact. So, that I believe, is
 my understanding of this uncertainty aspect of Life and a simple approach to
 handle it.
-
-* [Life Lessons](https://medium.com/tag/life-lessons?source=post)
-* [Happiness](https://medium.com/tag/happiness?source=post)
-* [Motivation](https://medium.com/tag/motivation?source=post)
-* [Clarity](https://medium.com/tag/clarity?source=post)
-
-### [Vigneshwar](https://medium.com/@Vickys_wiki)
-
-Student for life time! Think! Eat! Sleep! Ideate! Create! Be Kind! Help!
-[http://vicky.website/](http://vicky.website/)
