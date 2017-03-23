@@ -7,12 +7,10 @@ categories:
   - Philosophy
 caty: Ideas
 subcaty: Philosophy
-Tags:
+tags:
   - Philosophy
   - Life
 ---
-
-# The Uncertainty of Life
 
 ![](https://cdn-images-1.medium.com/max/800/1*vE7cuy-_gfzwWvLHvRfyvw.png)
 <span class="figcaption_hack">Its a choice!</span>
