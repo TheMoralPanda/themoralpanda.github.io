@@ -4,6 +4,8 @@ comments: true
 date: 2015-06-28 18:03:12+00:00
 layout: single
 title: enum First_Ever (RoadTrip, Resort, Beach_rain, Bike_ride_in_rain_ECR )
+description: |
+    My first ever road trip experience. A 24 hour fun enjoyment at Resort with friends.
 categories: 
     - Personal
     - Travel_Diaries

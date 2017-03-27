@@ -4,6 +4,8 @@ comments: true
 date: 2015-06-17 05:35:10+00:00
 layout: single
 title: Stop The Goddamn Car !
+description: |
+    "Tips on stopping a dangerous argument. Escaping a argument trauma"
 categories: 
     - Ideas
     - Philosophy

@@ -4,6 +4,8 @@ comments: true
 date: 2013-08-01 03:06:57+00:00
 layout: single
 title: 'Why do most of the Movies suck these days ? '
+description: |
+    Why do most of the movies suck these days? current status of the movies around the world.
 categories:
     - Ideas
     - Society
@@ -28,7 +30,7 @@ We all know , most of movies suck nowadays ! All I am keen to know is , Do they 
 
 All I want to focus on is about the **People Specific Issues ! ** **Since Most of the movies these days fail or suck so bad because of the second issue !  **Lets go back to good old days where a lot of stars ruled Cinema with their wonderful acting ! And the good old directors ruled people's hearts with wonderful movies !  
 
-[caption id="" align="aligncenter" width="249"][![Image](http://vickyexplored.files.wordpress.com/2013/08/sheep-group.jpg?w=249)](http://vickyexplored.files.wordpress.com/2013/08/sheep-group.jpg) Don't be one among them ! Have your own Original unique way ![/caption]
+[![Image](http://vickyexplored.files.wordpress.com/2013/08/sheep-group.jpg?w=249)](http://vickyexplored.files.wordpress.com/2013/08/sheep-group.jpg) Don't be one among them ! Have your own Original unique way ![/caption]
 
 How do you think most of the MGR and Sivaji  movies ran successfully all the time ? Well one might argue that ,Technology has not grown enough at that time, Competitions were minimum between the actors ! Well that is not true ! If you take any of those movies and play it now , It will contain a great story and its still watchable. But that is not my point in here. !  Why do most of the recent movies suck ? **The better question to every man will be, Do the Movie really sucks or its just what you heard about it ?**
 

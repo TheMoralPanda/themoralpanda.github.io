@@ -3,7 +3,9 @@ author-profile: true
 comments: true
 date: 2011-02-04 14:41:16+00:00
 layout: single
-title: 'Information Technology - is not just what you think !!'
+title: 'New Definition of Information Technology'
+description: |
+    New definition for Information Technology. Fictional definition for IT. 
 categories:
     - Ideas
     - Unique

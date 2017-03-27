@@ -4,6 +4,8 @@ comments: true
 date: 2011-07-14 14:50:14+00:00
 layout: single
 title: 'Nowhere to Nowhere!! but still expectations!! '
+description: |
+    "The Phiolosophy behind expectations in life. Especially since our life starts from Nowhere and goes to nowhere. "
 categories:
     - Ideas
     - Philosophy
@@ -19,7 +21,7 @@ Its  starts  from nowhere! where a soul gets life and a life gets a body and t
 
 Ever wondered ,where we come from?where we are heading to?what we need?and why? for all these.. how a baby is destined to be born to particular couple? who plans this entire process ?
 
-[caption id="attachment_32" align="aligncenter" width="300" caption="NOWHERE"][![](http://vickyexplored.files.wordpress.com/2011/07/nowhere-12212.jpg?w=300)](http://vickyexplored.files.wordpress.com/2011/07/nowhere-12212.jpg)[/caption]
+[![](http://vickyexplored.files.wordpress.com/2011/07/nowhere-12212.jpg?w=300)](http://vickyexplored.files.wordpress.com/2011/07/nowhere-12212.jpg)
 
 To my view, Life is nothing but a temporary stay in a well equipped gigantic hotel room ("The Earth").we never realize the ultra thin span of this life because of the temporary pleasures and acquaintances.I was wondering what made that super power to direct me to this world ? Am I bound to enjoy the stay or do something that stands for a help ?
 
@@ -31,7 +33,7 @@ They never expect **respect**!they never expect **response** ! and when somethin
 
 And this is the case with  a new born baby.**THEY ARE THE BEST STUDENTS.THEY LEARN BY PRACTICE,BY SIGHT,BY HEARING,BY FEELING EVERYTHING NEW!!. And the sense of clarity of not expecting anything makes them CUTE!! **
 
-[caption id="attachment_27" align="alignleft" width="210" caption="clarity and emptiness!!    "][![](http://vickyexplored.files.wordpress.com/2011/07/cute-baby.jpg?w=300)](http://vickyexplored.files.wordpress.com/2011/07/cute-baby.jpg)[/caption]
+[![](http://vickyexplored.files.wordpress.com/2011/07/cute-baby.jpg?w=300)](http://vickyexplored.files.wordpress.com/2011/07/cute-baby.jpg)
 
 **THE QUESTION IS,WHY BABIES ARE CONSIDERED CUTE AND LOVED BY ALL ,WHILE ADULTS LIKE US ARE NOT TREATED SO???**
 
@@ -41,13 +43,13 @@ And it so continues to grow, to learn , to even expect like common Adult! joinin
 
 we step into the new era of so called tradition and fashion all over! we score acquaintances! we start thinking that its my life and Iam the one to take care of it! **SLOWLY THE ACQUAINTANCES GLOW MORE THAN THE TRUE RELATIONSHIPS AND LOVE ! CRUSHES BRUSH PEOPLE!! we start moving away from our parents. Its the period where we are bound to believe that these acquaintances to be true! and that's where the problem starts! ** and it continues ,finally in search of the right one!! got it!!
 
-[caption id="attachment_29" align="aligncenter" width="112" caption="stylish man"][![](http://vickyexplored.files.wordpress.com/2011/07/stylish-man1.jpg)](http://vickyexplored.files.wordpress.com/2011/07/stylish-man1.jpg)[/caption]
+[caption id="attachment_29" align="aligncenter" width="112" caption="stylish man"][![](http://vickyexplored.files.wordpress.com/2011/07/stylish-man1.jpg)](http://vickyexplored.files.wordpress.com/2011/07/stylish-man1.jpg)
 
 And it contines, goes on and on! a self sustained group called family develops! new new cries and new new yells !! and chain extends and the **realization phase** begins.
 
 In this we start realizing the truth! the reality when it happens to our juniors! we realize the impact of expectations as it will be hurt! we realize that we were wrong ! The truth begins! The search begins! . we become old! we feel that we are not so important to this hotel ! we start expressing ! we realize that no one hear us! and we become useless dappa!! so called grandpa !!
 
-[caption id="attachment_30" align="aligncenter" width="300" caption="                              realization phase                                                            "][![](http://vickyexplored.files.wordpress.com/2011/07/grandpachair.gif?w=300)](http://vickyexplored.files.wordpress.com/2011/07/grandpachair.gif)     [/caption]
+[![](http://vickyexplored.files.wordpress.com/2011/07/grandpachair.gif?w=300)](http://vickyexplored.files.wordpress.com/2011/07/grandpachair.gif)     
 
 **and there you go!..towards nowhere once again! My dad used to talk about the "learning curve" that I definitely need to stress about!!! **
 

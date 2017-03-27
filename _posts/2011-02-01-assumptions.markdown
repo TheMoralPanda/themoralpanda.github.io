@@ -8,6 +8,8 @@ categories:
     - Society
 caty: Ideas
 subcaty: Society
+description: "History of Synonyms and meanings. Its all assumptions"
+title: "History of Synonyms - Assumptions"
 tags:
     - Ideas
     - Society

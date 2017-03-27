@@ -2,6 +2,8 @@
 title: Stop waiting for the signs!
 date: 2016-11-23
 layout: single
+description: |
+    Stop waiting for signs! The sound from the universe is always there! Just start!
 categories:
   - Ideas
   - Philosophy

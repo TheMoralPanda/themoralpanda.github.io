@@ -4,6 +4,8 @@ comments: true
 date: 2015-04-20 06:40:23+00:00
 layout: single
 title: Inspiration from within !
+description: |
+    How can we find Inspiration from within? The real secret of inspiration is inside all of us"
 categories:
     - Ideas
     - Philosophy
@@ -21,7 +23,7 @@ After thinking for a while, I realized that those individuals who amazed me wer
 
 **We are inspired by these people but how did they get inspiration before they had tasted success?**
 
-[caption id="attachment_383" align="alignright" width="300"][![Inspiration from within !](https://vickyexplored.files.wordpress.com/2015/04/power.jpg)](https://vickyexplored.files.wordpress.com/2015/04/power.jpg) Inspiration from within ![/caption]
+[![Inspiration from within !](https://vickyexplored.files.wordpress.com/2015/04/power.jpg)](https://vickyexplored.files.wordpress.com/2015/04/power.jpg) Inspiration from within !
 
 I finally discovered that one factor that I have been missing! It’s ‘**Inspiration from within**’. All those success stories will motivate us but the inspiration from within is responsible for making us work. The belief that we are going to get things done will make us work hard. We have to visualize ourselves being there, tasting success. The belief that there is something out there waiting for us is of high importance.
 

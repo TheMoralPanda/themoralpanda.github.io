@@ -4,6 +4,8 @@ comments: true
 date: 2013-09-13 14:05:31+00:00
 layout: single
 title: Music and Emotions !
+description: |
+   How music and Emotions are bunled together? How can we better enjoy the music
 categories:
     - Ideas
     - Intellectual

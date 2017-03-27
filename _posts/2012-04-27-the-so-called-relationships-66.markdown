@@ -4,6 +4,8 @@ comments: true
 date: 2012-04-27 11:12:36+00:00
 layout: single
 title: The so called RELATIONSHIPS !
+description: |
+    "The 21st century relationships! The loss of true love and the beginning of the dawn of Relationships/Breakups"
 categories:
     - Ideas
     - Society
@@ -20,7 +22,7 @@ tags:
 
 
 
-[caption id="" align="aligncenter" width="281" caption="                 wow!"][![](http://vickyexplored.files.wordpress.com/2012/04/4thgrade.jpg?w=487)](http://vickyexplored.files.wordpress.com/2012/04/4thgrade.jpg)[/caption]
+[![](http://vickyexplored.files.wordpress.com/2012/04/4thgrade.jpg?w=487)](http://vickyexplored.files.wordpress.com/2012/04/4thgrade.jpg)[/caption]
 
 
 

@@ -2,6 +2,8 @@
 title : Why should women not drink? Especially in India?
 date: 2016-01-26
 layout: single
+description: |
+    Women should not drink! and neither should Men! Women is unique and precious
 categories:
   - Ideas
   - Society

@@ -4,6 +4,9 @@ comments: true
 date: 2015-04-25 11:25:10+00:00
 layout: single
 title: The Change within !
+description: |
+    How to change our character? How can we improve our reputation?
+    The change from within!
 categories:
     - Ideas
     - Philosophy

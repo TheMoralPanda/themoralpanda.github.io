@@ -2,6 +2,8 @@
 title: The Uncertainty of Life
 date: 2016-08-03
 layout: single
+description: |
+    Making an uncertain human life, in to a finite set of certain experiences
 categories: 
   - Ideas
   - Philosophy
