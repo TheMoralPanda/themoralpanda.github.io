@@ -32,7 +32,8 @@ And I have decided to share it in the Social Media. Because,
     * They tend to mock about it and questions every move. +Motivation_indeed
 2. "Gives a right morale boost! just wat [The Moral Panda](http://themoralpanda.in) needs.
 3. For tiny bit of social pressure, to complete what I have said. 
-    * <img src="/assets/images/rajni.jpg" /> Sonna Vaaka Kaapathanum Pressure! 
+    * <img src="/assets/images/rajni.jpg" width="200px" height="200px" />
+    * Sonna Vaaka Kaapathanum Pressure! 
 
 <figure>
   <img src="/assets/images/To the perfect One month - April 2017.JPG" alt="April 2017 plan - vicky">
