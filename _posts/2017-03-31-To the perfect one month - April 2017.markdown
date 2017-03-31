@@ -32,7 +32,7 @@ And I have decided to share it in the Social Media. Because,
     * They tend to mock about it and questions every move. +Motivation_indeed
 2. "Gives a right morale boost! just wat [The Moral Panda](http://themoralpanda.in) needs.
 3. For tiny bit of social pressure, to complete what I have said. 
-    * <img src="/assets/images/rajni.jpg" width="200px" height="200px" />
+    * <img src="/assets/images/rajni.jpg" width="200px" height="150px" />
     * Sonna Vaaka Kaapathanum Pressure! 
 
 <figure>
