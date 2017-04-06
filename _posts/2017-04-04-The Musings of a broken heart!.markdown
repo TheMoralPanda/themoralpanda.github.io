@@ -12,6 +12,8 @@ subcaty: Philosophy
 tags:
   - Philosophy
   - Love
+header:
+  - image: "/assets/images/broken heart.jpg"
 ---
 
 Ever wondered, what does a broken heart ponders about? How it struggles and learns to pick itself up, after falling terribly? How it goes through the random raids by past memories, both pleasant and miserable ones? How it constantly tries to erase those chains of images of both good and bad times? Especially when it knows, what it should do, how it should move on. While the world is full of cliche answers and clues, the experience of a heart is always unique. So even though it has numerous solution right at its hand, the suffering is always unique. 
