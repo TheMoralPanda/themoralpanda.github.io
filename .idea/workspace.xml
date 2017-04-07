@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d5f5f24b-241a-4ef9-8418-2b7bf0fdb444" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/seo.html" afterPath="$PROJECT_DIR$/_includes/seo.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-04-04-The Musings of a broken heart!.markdown" afterPath="$PROJECT_DIR$/_posts/2017-04-04-The Musings of a broken heart!.markdown" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/feed.xml" afterPath="$PROJECT_DIR$/_site/feed.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/index.html" afterPath="$PROJECT_DIR$/_site/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/page2/index.html" afterPath="$PROJECT_DIR$/_site/page2/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/sitemap.xml" afterPath="$PROJECT_DIR$/_site/sitemap.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-11-23-Stop waiting for sings!.markdown" afterPath="$PROJECT_DIR$/_posts/2016-11-23-Stop waiting for sings!.markdown" />
     </list>
     <ignored path="vickys-wiki.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -87,12 +81,28 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="seo.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="seo.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/seo.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6949459">
-              <caret line="96" column="25" selection-start-line="96" selection-start-column="25" selection-end-line="96" selection-end-column="25" />
+            <state vertical-scroll-proportion="-1.8113208">
+              <caret line="79" column="79" selection-start-line="79" selection-start-column="79" selection-end-line="79" selection-end-column="79" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2016-11-23-Stop waiting for sings!.markdown" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2016-11-23-Stop waiting for sings!.markdown">
+          <provider editor-type-id="MarkdownFxPreviewEditor">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="FIRST">
+              <first_editor vertical-scroll-proportion="0.38405797">
+                <caret line="14" column="79" selection-start-line="14" selection-start-column="79" selection-end-line="14" selection-end-column="79" />
+                <folding />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -143,7 +153,6 @@
         <option value="$PROJECT_DIR$/_posts/2015-06-28-enum-firstever-roadtrip-resort-beach_rain-bike_ride_in_rain_ecr-c.markdown" />
         <option value="$PROJECT_DIR$/_posts/2016-01-26-Why should women not drink! Especially in India!.markdown" />
         <option value="$PROJECT_DIR$/_posts/2016-08-03-The Uncertainty of Life.markdown" />
-        <option value="$PROJECT_DIR$/_posts/2016-11-23-Stop waiting for sings!.markdown" />
         <option value="$PROJECT_DIR$/_layouts/home.html" />
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/_includes/footer.html" />
@@ -151,6 +160,7 @@
         <option value="$PROJECT_DIR$/_includes/head/custom.html" />
         <option value="$PROJECT_DIR$/_posts/2017-04-04-The Musings of a broken heart!.markdown" />
         <option value="$PROJECT_DIR$/_includes/seo.html" />
+        <option value="$PROJECT_DIR$/_posts/2016-11-23-Stop waiting for sings!.markdown" />
       </list>
     </option>
   </component>
@@ -963,19 +973,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2016-11-23-Stop waiting for sings!.markdown">
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor vertical-scroll-proportion="0.39738807">
-            <caret line="47" column="66" selection-start-line="47" selection-start-column="66" selection-end-line="47" selection-end-column="66" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2016-08-03-The Uncertainty of Life.markdown">
       <provider editor-type-id="MarkdownFxPreviewEditor">
         <state />
@@ -1121,9 +1118,23 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/seo.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6949459">
-          <caret line="96" column="25" selection-start-line="96" selection-start-column="25" selection-end-line="96" selection-end-column="25" />
+        <state vertical-scroll-proportion="-1.8113208">
+          <caret line="79" column="79" selection-start-line="79" selection-start-column="79" selection-end-line="79" selection-end-column="79" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2016-11-23-Stop waiting for sings!.markdown">
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor vertical-scroll-proportion="0.38405797">
+            <caret line="14" column="79" selection-start-line="14" selection-start-column="79" selection-end-line="14" selection-end-column="79" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>

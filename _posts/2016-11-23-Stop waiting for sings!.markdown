@@ -12,6 +12,7 @@ subcaty: Philosophy
 tags:
   - Philosophy
   - Intellectual
+og_image: https://cdn-images-1.medium.com/max/800/1*MqXKPc2jbuB_UQLn_kWoIg.jpeg
 ---
 ![](https://cdn-images-1.medium.com/max/800/1*MqXKPc2jbuB_UQLn_kWoIg.jpeg)
 
