@@ -17,7 +17,7 @@ og_image: /assets/images/broken heart.jpg
 
 Ever wondered, what does a broken heart ponders about? How it struggles and learns to pick itself up, after falling terribly? How it goes through the random raids by past memories, both pleasant and miserable ones? How it constantly tries to erase those chains of images of both good and bad times? Especially when it knows, what it should do, how it should move on. While the world is full of cliche answers and clues, the experience of a heart is always unique. So even though it has numerous solution right at its hand, the suffering is always unique. 
 
-<img src="/assets/images/broken heart.jpg" width="500px" height="300px">
+<img src="/assets/images/broken heart.jpg" width="500px" height="300px" itemprop="image" alt="Page Image, Broken heart">
 
 The context of this particular experience of a broken heart is of lost love. By the way, why does it got hurt in the first place? What does a heart essentially do, when it comes to love? It jumps to bond. It tries to be one, even though it knows, they are two different ones, both in terms of identity and in terms of ideals. The desperation often starts so successful, that it starts to believe that they both are made for each other. So you could imagine, like a pair of elements bonded together. And the universe is like a giant ball, inside which trillion pairs of elements roaming around. There are many different bonds among them. Some are double bonds, so strong, so powerful. Some are single bonds, one among the pair has bonded while the other is partially bonded. One is empowering and the other has got entangled. In some pairs, there are no bonds at all. But just roaming together without any affection between them.
 
