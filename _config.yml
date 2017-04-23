@@ -45,7 +45,7 @@ facebook:
   username               :  "TheMoralPanda"
   app_id                 :
   publisher              :
-og_image                 : "/assets/images/iconified/apple-touch-icon-180x180.png"
+og_image                 : "/assets/images/iconified/dp_200by200.png"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
