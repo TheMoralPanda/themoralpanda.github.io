@@ -66,7 +66,7 @@ analytics:
 # Site Author
 author:
   name             : "Vigneshwar Venkatachalapathi"
-  avatar           : ""
+  avatar           : "/assets/images/profile_pic.jpg"
   bio              : "A full-stack web developer by work.A problem solver by nature.A constant learner by will."
   location         : "Chennai, India" 
   email            : 
