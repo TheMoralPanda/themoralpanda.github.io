@@ -97,7 +97,8 @@
   <meta property="og:image:url" content="{% if page.og_image contains "://" %}{{ page.og_image }}{% else %}{{ page.og_image | absolute_url }}{% endif %}">
   <meta property="og:image:type" content="image/jpeg">
 {% else %}
-  <meta property="og:image:url" content="">
+  <meta property="og:image:url" content="/assets/images/iconified/apple-touch-icon-180x180.png">
+  <meta property="og:image:type" content="image/png">
   <!-- {% elsif site.og_image %}
   <meta property="og:image" content="{% if site.og_image contains "://" %}{{ site.og_image }}{% else %}{{ site.og_image | absolute_url }}{% endif %}">-->
 {% endif %} 
