@@ -96,7 +96,9 @@
 {% elsif page.og_image %}
   <meta property="og:image:url" content="{% if page.og_image contains "://" %}{{ page.og_image }}{% else %}{{ page.og_image | absolute_url }}{% endif %}">
   <meta property="og:image:type" content="image/jpeg">
-<!-- {% elsif site.og_image %}
+{% else %}
+  <meta property="og:image:url" content="">
+  <!-- {% elsif site.og_image %}
   <meta property="og:image" content="{% if site.og_image contains "://" %}{{ site.og_image }}{% else %}{{ site.og_image | absolute_url }}{% endif %}">-->
 {% endif %} 
  
