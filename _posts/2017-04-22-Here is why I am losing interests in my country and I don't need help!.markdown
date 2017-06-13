@@ -34,6 +34,7 @@ I am annoyed because of the People. I am loosing patriotism because of the my br
 9. A single person drives a Sedan alone, daily to office, and complains about Pollution in the city.
 10. They worry so much about U.S coming out of Paris climate change treaty, but continue cutting trees and conquer lakes. 
 11. A cow is an holy animal whereas a chicken is a Satan's curse.
+12. If animals know about the purspose of dustbins, then I bet that they would not throw away anything on the roads.  
 
 The lists goes on and on.
 
