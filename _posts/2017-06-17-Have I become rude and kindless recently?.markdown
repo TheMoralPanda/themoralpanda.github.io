@@ -1,6 +1,6 @@
 ---
 title: Have I become rude and kindless recently?
-date: 2017-06-16
+date: 2017-06-17
 layout: single
 description: |
     An argument with myself, over the recent changes since may 2017
