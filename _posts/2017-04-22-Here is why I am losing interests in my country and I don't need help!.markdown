@@ -10,7 +10,7 @@ categories:
 caty: Opinion
 subcaty: Society
 tags:
-  - Opinions
+  - Opinions	
   - Society
   - Musing
 ---

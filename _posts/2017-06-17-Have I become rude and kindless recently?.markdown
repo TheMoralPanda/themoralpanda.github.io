@@ -12,7 +12,7 @@ subcaty: Musing
 tags:
   - Personal
   - Musing
-  - thoughts
+  - Thoughts
 ---
 
 <b>This is an argument within my self, on recent behaviour changes since Kailash trip, on may 2017. This content may be useless to other people. But some good points are there , if you have so much time. And reason to post it in my blog, hmm.. well its just a personal blog. I need not worry so much what others think 😀 </b>
