@@ -3,7 +3,7 @@ title: Completed listening to an Audio Book!
 date: 2017-06-27
 layout: single
 description: |
-    Getting started with aduio books. My first experience listening to an audio book!
+    Getting started with audio books. My first experience listening to an audio book!
 categories:
   - Personal
   - Experience
@@ -25,7 +25,7 @@ Amazon's Audible is the best audio book application+web store, that currently ex
 
 The best part about Audible, is the audio books are narrated by some decent narrators who have lend their voices narrating the book. So the point is, The books are read to you like how people read stories to their young children.
 
-The fact is Audible lets you try free for one month, though it collects your credit card information prior to it. Once you register, it will give you one credit which you can use it to download any book. Ideally a book cost 1 credit. The option available to us is that we can exchange the book anytime to download a new book anytime, if we feel so. But the books we have completed, will be available to us completely, even if we cancel our subscription. After the free initial trial month, the subscription costs 15USD per month, which is roughly 970Rupees/month. It seems costly, but I feel its worth it, because of a different experience.
+The fact is Audible lets you try free for one month, though it collects your credit card information prior to it. Once you register, it will give you one credit which you can use it to download any book. Ideally a book cost 1 credit. The option available to us is that we can exchange the book anytime to download a new book, if we feel so. But the books we have completed, will be available to us completely, even if we cancel our subscription. After the free initial trial month, the subscription costs 15USD per month, which is roughly 970Rupees/month. It seems costly, but I feel its worth it, because of a different experience.
 
 This book about AI and Virtual Reality is not the first book for me to complete. When you sign up for the first time, the first book worth a credit, is free. So I signed up, downloading this AI book to my phone. Then in order to use the first month free trial, I used that extra credit, to buy another audio book. Its "The Power of Habit: Why we do what we do and how to change, by Charles Duhigg". So I had two books in my phone and I was listening to it in parallel, switching between the two. This second book about habits is the one, I have finished listening to, first. So this is technically my first ever complete audio book experience. I will write a short review about that book in a separate blog.
 
