@@ -16,7 +16,7 @@ tags:
   - Behaviours
 ---
 
-Google defines an Oxymorons as a noun - a figure of speech in which apparently contradictory terms appear in conjunction (e.g. faith unfaithful kept him falsely true ). So Recently a thought came in to my mind. We as people exhibit a lot of oxymorons in our intentions. Below is a small collection of oxymorons in our intentions that I could remember. Please add on to this list. Its a funny one. :)
+Google defines an Oxymoron - a noun - a figure of speech in which apparently contradictory terms appear in conjunction (e.g. faith unfaithful kept him falsely true ). So Recently a thought came in to my mind. We as people exhibit a lot of oxymorons in our intentions. Below is a small collection of oxymorons in our intentions that I could remember. Please add on to this list. Its a funny one. :)
 
 1. <u> நீங்க தப்பா எடுத்துகலணா..நான் </u> - We know clearly that they are going to thappa eduthufy, right after we say, what we are about to say. But still we do say it. 
 2. <u>தெரியாம தான் கேக்குறேன்</u> - Bloody hell! we are only therinjae asking. This is brutally sarcastic.
