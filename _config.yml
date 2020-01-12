@@ -7,9 +7,11 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "The Moral Panda"
+title                    : "Vig Venkat"
 title_separator          : "-"
-name                     : "Vigneshwar V"
+theme                    : minimal-mistakes-jekyll
+minimal_mistakes_skin    : dark
+name                     : "Vig Venkat"
 description              : "Personal site of Vigneshwar Venkatachalapathi. Software Engineer, Blogger, Problem Solver, Creationist."
 url                      : "https://themoralpanda.github.io"
 baseurl                  : ""
@@ -40,9 +42,9 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               :  "TheMoralPanda"
+  username               :  "AnEmptyBoat"
 facebook:
-  username               :  "TheMoralPanda"
+  username               :  "AnEmptyBoat"
   app_id                 :
   publisher              :
 og_image                 : "/assets/images/iconified/dp_200by200.png"
@@ -52,8 +54,8 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: 
-     - "https://twitter.com/TheMoralPanda"
-     - "https://facebook.com/TheMoralPanda"
+     - "https://twitter.com/AnEmptyBoat"
+     - "https://facebook.com/AnEmptyBoat"
      - "https://www.linkedin.com/in/vickypathi"
      - "https://github.com/TheMoralPanda"
 # Analytics
@@ -65,22 +67,22 @@ analytics:
 
 # Site Author
 author:
-  name             : "Vigneshwar Venkatachalapathi"
-  avatar           : "/assets/images/profile_pic.jpg"
-  bio              : "A full-stack web developer by work.A problem solver by nature.A constant learner by will."
-  location         : "Chennai, India" 
-  email            : 
+  name             : "Vig Venkat"
+  avatar           : "/assets/images/vigdp.png"
+  bio              : 
+  location         : "Hong Kong" 
+  email            : "haivicky@gmail.com"
   uri              : 
   bitbucket        :
   codepen          : # "http://codepen.io/vickys-wiki/"
   dribbble         :
   flickr           :
-  facebook         : "TheMoralPanda"
+  facebook         : "AnEmptyBoat"
   foursquare       :
   github           : "TheMoralPanda"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "vigvenkat"
   lastfm           :
   linkedin         : "vickypathi"
   pinterest        :
@@ -88,7 +90,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          : "TheMoralPanda"
+  twitter          : "AnEmptyBoat"
   vine             :
   weibo            :
   xing             :
