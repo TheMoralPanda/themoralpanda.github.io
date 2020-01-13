@@ -9,7 +9,7 @@
 locale                   : "en"
 title                    : "Vig Venkat"
 title_separator          : "-"
-theme                    : minimal-mistakes-jekyll
+theme: minimal-mistakes-jekyll
 minimal_mistakes_skin    : dark
 name                     : "Vig Venkat"
 description              : "Personal site of Vigneshwar Venkatachalapathi. Software Engineer, Blogger, Problem Solver, Creationist."
