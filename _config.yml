@@ -14,7 +14,7 @@ minimal_mistakes_skin    : dark
 name                     : "Vig Venkat"
 description              : "Personal site of Vigneshwar Venkatachalapathi. Software Engineer, Blogger, Problem Solver, Creationist."
 url                      : "https://themoralpanda.github.io"
-baseurl                  : "/themoralpanda.github.io"
+baseurl                  : "/"
 repository               : "TheMoralPanda/themoralpanda.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
