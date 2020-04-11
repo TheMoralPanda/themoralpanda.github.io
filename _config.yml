@@ -11,11 +11,11 @@ title                    : "Vig Venkat"
 title_separator          : "-"
 minimal_mistakes_skin    : dark
 theme                    : "minimal-mistakes-jekyll"
-remote_theme : "mmistakes/minimal-mistakes"
+#remote_theme : "mmistakes/minimal-mistakes"
 name                     : "Vig Venkat"
 description              : "Personal site of Vigneshwar Venkatachalapathi. Software Engineer, Blogger, Problem Solver, Creationist."
 url                      : "https://themoralpanda.github.io"
-baseurl                  : ""
+baseurl                  : "https://themoralpanda.github.io"
 repository               : "TheMoralPanda/themoralpanda.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
