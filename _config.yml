@@ -9,9 +9,8 @@
 locale                   : "en"
 title                    : "Vig Venkat"
 title_separator          : "-"
+remote_theme: "mmistakes/minimal-mistakes@4.19.1" 
 minimal_mistakes_skin    : dark
-theme                    : "minimal-mistakes-jekyll"
-#remote_theme : "mmistakes/minimal-mistakes"
 name                     : "Vig Venkat"
 description              : "Personal site of Vigneshwar Venkatachalapathi. Software Engineer, Blogger, Problem Solver, Creationist."
 #url                      : ""
@@ -170,6 +169,7 @@ timezone: # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 # Plugins
 gems:
+  - jekyll-include-cache
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
