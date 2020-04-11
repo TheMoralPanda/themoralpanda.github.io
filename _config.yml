@@ -11,6 +11,7 @@ title                    : "Vig Venkat"
 title_separator          : "-"
 minimal_mistakes_skin    : dark
 theme                    : "minimal-mistakes-jekyll"
+remote_theme : "mmistakes/minimal-mistakes"
 name                     : "Vig Venkat"
 description              : "Personal site of Vigneshwar Venkatachalapathi. Software Engineer, Blogger, Problem Solver, Creationist."
 url                      : "https://themoralpanda.github.io"
