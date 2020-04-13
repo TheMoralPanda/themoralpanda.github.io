@@ -1,1 +1,1 @@
-Sitemap: /sitemap.xml
+Sitemap: https://themoralpanda.github.io/sitemap.xml
